@@ -1,0 +1,1 @@
+Passing feature files go in this folder.

@@ -1,0 +1,1 @@
+Feature files for bugs go in this folder.
